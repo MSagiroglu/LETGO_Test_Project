@@ -1,0 +1,6 @@
+1-Clone yapılan projesyi önce kendinize ait bir branch oluşturun ve o branche merge ettikten sonra aşağıdaki
+  adımları yapalım.
+2-Lütfen  letgo_test_package altına kendi package'lerimizi açalım.
+3-Packagenin içine bir text file oluşturup içerisine testlerimizin adını  ve adımlarımızı yazalım.
+4-Her Test Class'ını TestBase class'ına extend edelim.
+5-
