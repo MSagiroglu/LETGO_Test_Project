@@ -1,4 +1,4 @@
-package letgo_test_packages.utilities;
+package utilities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.Before;
