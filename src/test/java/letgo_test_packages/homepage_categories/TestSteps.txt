@@ -1,0 +1,15 @@
+LetGo Ana Sayfa Test Adımları
+1.	www.letgo.com sayfasına git
+2.	Letgo logosunun görünür olup olmadığını doğrulayınız.
+3.	Konum kısmına tıklandığında “Mevut Konum” Tıklandığında konum izinleri kapalıysa
+ “Konumuna erişemiyoruz” yazısının çıktığını doğrulayın.
+4.	Konum kısmına tıklandığında “Turgutlu” girildiğinde “Turgutlu/Manisa” çıktığını doğrulayın.
+5.	Konum kısmına tıklandığında “Ankara” girildiğinde “Ankara/Türkiye” çıktığını doğrulayın.
+6.	Ana Sayfa otoplus kısmı nı yapacakmıyız?
+7.	Ana sayfada gözüken tüm kategorilerin erişilebilir olduğunu test edelim.
+8.	Ana sayfada gözüken tüm kategorilere sırasıyla tıklayalım ,sayfa başlığını al ve yazdır, konumu İstanbul olarak belirliyelim, Arama sonuç yazısının gözüktüğünü doğrula , yazı içerisinde ki konum ile seçilen konumun aynı olduğunu doğrula,( araba kategorisine ait alt başlıkları yazdır,ilçere göre 1 filtrleme seç ve  filtreleme yap,fiyat filtrelemesi uygula ve filteleme yap Çıkan ürünlerin il 10 tanesin yazdır,  fiyat aralığı dışında bir araba önerisi yapılmadığını doğrula,sıralama ölçütü kısmındaki tüm menülere sırasıyla tıklayalım.) parantez içi kısmı diğer tüm kategorilere uyacak şekilde tekrar yap.
+9.	Ana sayfada Güncel ilanlar kısmının gözüktüğünü doğrulayın.
+10.	Ana sayfada Güncel ilanlar kısmının altın da bulunan “Daha fazla yükle” butonunun erişilebilir ve  gözüktüğünü doğrulayın.
+11.	Ana sayfada en altta bulunan sosyal medya hesaplarının erişilebilir , görünür olduğunu doğrulayın ve hepsine gidip letgo’ya ait hesaplat olduğunu doğrulayın.
+Kategori (//div)[42] and (//div)[123]
+Bug-1 Fiyat aralığı kısmıda klavyede nüümerk kısımdan veri girilemiyor
