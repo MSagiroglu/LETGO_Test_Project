@@ -29,6 +29,5 @@ public class HomePage_Categories_Tests extends TestBase {
         extentReports.flush();
 
 
-
     }
 }
