@@ -3,4 +3,4 @@
 2-Lütfen  letgo_test_package altına kendi package'lerimizi açalım.
 3-Packagenin içine bir text file oluşturup içerisine testlerimizin adını  ve adımlarımızı yazalım.
 4-Her Test Class'ını TestBase class'ına extend edelim.
-5- Kendimize yeni branch acmak icin git checkout -b"kisi ismi" yapmaliyiz
+5-Kendimize yeni branch acmak icin git checkout -b"kisi ismi" yapmaliyiz
