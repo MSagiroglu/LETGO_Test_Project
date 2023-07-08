@@ -1,4 +1,4 @@
-package letgo_test_packages;
+package letgo_test_packages.letgo_oto_plus;
 
 import org.junit.Assert;
 import org.junit.Test;
