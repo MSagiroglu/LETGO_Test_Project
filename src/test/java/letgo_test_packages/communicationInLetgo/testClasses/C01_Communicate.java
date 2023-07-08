@@ -1,4 +1,4 @@
-package communicationInLetgo.testClasses;
+package letgo_test_packages.communicationInLetgo.testClasses;
 
 import letgo_test_packages.utilities.TestBase;
 import org.junit.Test;
